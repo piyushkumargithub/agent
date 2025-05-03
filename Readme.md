@@ -4,7 +4,7 @@
 An agent using smolagent by huggingface
 
 ### Prerequisites
-- Python 3.8 or later must be installed on your system.
+- Python 3.10 or later must be installed on your system.
 - Ensure `pip` is installed and updated to the latest version.
 
 ### Steps
